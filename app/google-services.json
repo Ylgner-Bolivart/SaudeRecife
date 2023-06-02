@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88471482952",
+    "project_id": "sauderecife-200a9",
+    "storage_bucket": "sauderecife-200a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88471482952:android:f8349766cf9e56df381e7d",
+        "android_client_info": {
+          "package_name": "com.example.sauderecife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88471482952-b9fq3t6tgqk04317ici2lkj5gmd0k9gg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf9JCV7lCR53S95K8j7Qhkcm8ag3JwfWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88471482952-b9fq3t6tgqk04317ici2lkj5gmd0k9gg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
